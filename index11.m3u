@@ -29,6 +29,18 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 type="stream" channelId="1941", KANAL 7 HD YEDEK
 https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 type="stream" channelId="1076", TV8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 type="stream" channelId="1076", TV8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:0 type="stream" channelId="1076", TV8
+https://tv8.personamedia.tv/tv8hls?fmt=hls
+#EXTINF:0 type="stream" channelId="1076", TV8
+https://av.livestreamlive.xyz/hls/tv8.m3u8
+#EXTINF:0 type="stream" channelId="1076", TV8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:0 type="stream" channelId="1076", TV8
+https://livex.canlitvizle.kim/tv-8/index.m3u8
 #EXTINF:0 type="stream" channelId="19488", TV8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 type="stream" channelId="19789", TV8 SD
